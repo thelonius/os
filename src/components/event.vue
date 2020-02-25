@@ -45,8 +45,8 @@ import picPath7 from "../assets/pic/7.jpg";
 import picPath8 from "../assets/pic/8.jpg";
 import picPath9 from "../assets/pic/8.jpg";
 import picPath10 from "../assets/pic/10.jpg";
-import picPath11 from "../assets/pic/11.jpg";
-import picPath12 from "../assets/pic/12.jpg";
+// import picPath11 from "../assets/pic/11.jpg";
+// import picPath12 from "../assets/pic/12.jpg";
 
 export default {
   name: "osEvent",

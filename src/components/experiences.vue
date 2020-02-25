@@ -81,8 +81,8 @@ export default {
         picPath8,
         picPath9,
         picPath10,
-        picPath11,
-        picPath12
+        picPath11
+        // picPath12
       ],
       eventCatalogue: [
         {
